@@ -20,7 +20,7 @@ public class Exercicio3 {
     raiz = (a*a) + (b*b);
     
     c = Math.sqrt (raiz);
-    double raizResul = Math.ceil(c);
+    double raizResul = c;
 
     System.out.println("A expressão c =(raiz quadrada) a2+b2 deu o resultado arredondado de: " + raizResul );
    
